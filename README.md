@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="SwiftMCP" width="880"></p>
+
 # SwiftMCP
 
 A Swift Package that implements an MCP (Model Context Protocol) client for iOS and macOS, enabling native API integration through a JSON-RPC interface. The package also includes an OpenAI-compatible function calling bridge.
